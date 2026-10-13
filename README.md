@@ -4,7 +4,7 @@ An end-to-end Power BI business intelligence application analyzing the behaviora
 
 ## 📌 Executive Summary
 
-This project acts as an operational case study for a **Digital Health Product Team / Public Health Initiative**. By transforming and modeling a comprehensive cohort dataset of 7,000 synthetic records across 25 granular behavioral and psychological attributes, this interactive dashboard isolates the exact thresholds where screen-time habits cannibalize physical recovery and spike clinical stress indicators. The dataset was originally published on ![Kaggle](https://www.kaggle.com/datasets/uditjain13/social-media-screen-time-and-mental-health-2026/data)
+This project acts as an operational case study for a **Digital Health Product Team / Public Health Initiative**. By transforming and modeling a comprehensive cohort dataset of 7,000 synthetic records across 25 granular behavioral and psychological attributes, this interactive dashboard isolates the exact thresholds where screen-time habits cannibalize physical recovery and spike clinical stress indicators. The dataset was originally published on [Kaggle](https://www.kaggle.com/datasets/uditjain13/social-media-screen-time-and-mental-health-2026/data)
 
 ### 💡 Core Strategic Insights Discovered
 
